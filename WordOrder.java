@@ -1,5 +1,14 @@
 package Lists_Stack_Queue_PriorityQueue;
 
+import java.io.File;
+import java.io.FileNotFoundException;
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.io.IOException;
+import java.util.Scanner;
+
+import com.sun.tools.javac.code.Attribute.Array;
+
 public class WordOrder {
 
   public static void main(String[] args) {
